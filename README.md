@@ -1,4 +1,6 @@
 # Description
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Filyastray777%2FrootlessJB3.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Filyastray777%2FrootlessJB3?ref=badge_shield)
+
 
 Blah blah, read this: [How to make a jailbreak without a filesystem remount as r/w](https://github.com/jakeajames/rootlessJB/blob/master/writeup.pdf)
 
@@ -55,3 +57,7 @@ patcher usage:
 Thanks to: Ian Beer, Brandon Azad, Jonathan Levin, Electra Team, IBSparkes, Sam Bingner, Sammy Guichelaar.
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Filyastray777%2FrootlessJB3.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Filyastray777%2FrootlessJB3?ref=badge_large)
